@@ -1,0 +1,113 @@
+.program{
+    font-size:40px;color: blue;
+     padding-top: 20px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.open{
+    border-radius: 20px; background-color: rgb(234, 23, 58);
+}
+.permonth{
+    border:6px solid blue; border-radius: 30px;
+}
+.course{
+    border:6px solid yellow; border-radius: 20px;
+}
+.course29{
+    border:6px solid red; border-radius: 20px; height: 230px; 
+}
+.build{
+    font-size: 45px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bca5{
+    border: 2px solid rgb(246, 243, 243); border-radius: 10px; background-color: rgb(223, 223, 231);
+}
+.bcap{
+   font-size: 15px; 
+}
+.bcamain{
+    padding:100px 20px;
+}
+.emerging{
+    border: 2px solid rgb(139, 139, 228);height: 280px;
+}
+.es{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.pha{
+    padding:100px 20px; background-color: rgb(233, 233, 243); border-radius: 30px;
+}
+.bca8{
+    background-color: rgb(231, 231, 245); border-radius: 30px; 
+}
+.oa{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: blue;
+}
+.academic{
+    padding-left: 250px; padding-top: 20px; 
+}
+.bcaimg{
+
+}
+.parab{
+    font-size:12px ;
+}
+.parab2{
+    font-size: 12px;
+    margin-left: 10px;
+}
+.bcaimg{
+    margin-left: 40px;
+}
+.bca9{
+    background-color: rgb(228, 228, 244); border-radius: 30px; padding:100px 20px; margin-top: 100px; 
+}
+.bcao{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bcacard{
+    font-size: 10px;
+}
+.degree{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ao2{
+    font-size: 13px;
+}
+.div10bca{
+    background-color: rgb(217, 217, 246);
+    border-radius: 15px;
+}
+.bca14{
+    background-color: rgb(225, 225, 244); border-radius: 30px;
+}
+.bca14h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;padding-top: 30px; margin-left: 30px; color: blue; 
+}
+.mentors{
+    border: 1px solid black; border-radius: 20px; height:250px ;
+}
+.bca15{
+    background-color: rgb(235, 235, 246); border-radius: 30px;
+}
+.job{
+    color: blue; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.entry{
+    border: 1px solid rgb(187, 187, 238); margin-left: 10px; border-radius: 30px;
+}
+.level{
+    background-color: darkblue; color: white;
+}
+.mid{
+    border: 1px solid rgb(203, 203, 245); border-radius: 30px;
+}
+.Adv{
+    border: 1px solid rgb(169, 169, 244); margin-right: 10px; border-radius: 30px; 
+}
+
+
+
+
+
+
+

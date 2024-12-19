@@ -1,0 +1,62 @@
+/* .ci{
+    border: 2px solid black;
+    height: auto;
+    width: auto;
+    border-radius: 40px;
+    background-color: rgb(186, 186, 245);
+} */
+/* CareerImpact.css */
+.h11 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: cursive;
+    color: blue;
+  }
+  
+  .row {
+    margin-top: 20px;
+  }
+  
+  .ci {
+    text-align: center;
+    margin-bottom: 30px; /* Adjusts the space between elements */
+    padding: 15px;
+    
+  }
+  
+  .ci img {
+    margin-bottom: 15px;
+  }
+  
+  .ci h4 {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .ci p {
+    font-size: 14px;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .ci {
+      margin-bottom: 20px;
+      padding: 10px;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    h1 {
+      font-size: 1.5rem;
+    }
+  
+    .ci img {
+      width: 80px;
+      height: 80px;
+    }
+  
+    .ci p {
+      font-size: 12px;
+    }
+  }
+  

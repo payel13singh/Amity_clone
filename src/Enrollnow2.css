@@ -1,0 +1,45 @@
+.enrollnow{
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
+.controla{
+    text-align: center;
+    border-color: blue;
+}
+.control1{
+    width: 100px;
+    text-align: center;
+    border-color: blue;
+}
+.control2{
+    /* width: 300px; */
+    text-align: center;
+    border-color: blue;
+}
+.control3{
+    margin-top: 20px;
+
+    padding: 20px;
+
+    text-align: center;
+    margin-bottom: 20px;
+    border-color: blue;
+    background-color: yellow;
+    border: 3px solid blue;
+    
+}
+.radiobtn{
+    /* margin-left: 140px; */
+    text-align: center;
+}
+.sl{
+    border-color: white;
+}
+.form-check{
+/* text-align: center; */
+
+}

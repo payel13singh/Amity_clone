@@ -1,0 +1,213 @@
+.pgh1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 40px;
+    color: blue;
+}
+.pgh2{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+.bbadiv{
+  width: auto;
+  height: auto;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 2s;
+  animation-iteration-count:infinite;
+  /* margin-left: 25px; */
+}
+.bba2{
+  margin: 2rem;
+}
+
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: green;}
+  
+}
+
+.adm{
+   border-radius: 20px; 
+}
+.rs4583{
+   border: 6px solid blue;
+   border-radius: 30px;
+
+}
+.rs127{
+    border: 6px solid yellow;
+    border-radius: 30px;
+    border-radius: 20px;
+ }
+ .rs25{
+    border: 6px solid red;
+    border-radius: 20px;
+ }
+ .div4{
+padding:100px,20px ;
+ }
+ .div4one{
+   border: 2px solid rgb(246, 243, 243);
+   border-radius:10px ;
+   background-color: rgb(223, 223, 231);
+
+ }
+ .div4two{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size:45px ;
+ }
+ .div4three{
+   font-size: 15px;
+   font-family: cursive;
+ }
+ .div6{
+   padding:100px 20px;
+    background-color: rgb(233, 233, 243);
+     border-radius: 30px;
+ }
+ .div6one{
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .div6two{
+   border: 2px solid rgb(139, 139, 228);height: 280px;
+
+ }
+ .div7{
+  background-color:rgb(195, 195, 239);
+  /* padding:100px 20px; */
+  border-radius: 20px;
+ }
+ .div7one{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: blue;
+ }
+ .div7two{
+  font-size: 13px;
+ }
+ .div8img{
+  margin-left: 10px;
+ }
+ .div8{
+  background-color: rgb(231, 231, 245); border-radius: 30px;
+ }
+ .div8img1{
+  font-size: 12px;
+ }
+ .divh2{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: blue;
+ }
+ .card-body{
+        font-size: 10px;
+ }
+ .div9{
+  background-color: rgb(228, 228, 244); border-radius: 30px; padding:100px 20px;
+ }
+ .div9h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .div9h2{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .div9p{
+  font-size: 13px;
+ }
+ .div10{
+  background-color: rgb(234, 234, 247); border-radius: 30px; padding: 100px 20px;
+ }
+ .div10h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: blue;
+ }
+ .div10h3{
+  background-color: rgb(8, 8, 63);
+   /* width:500px ;*/
+   /* height: 50px;   */
+   border-radius: 40px; color: white;
+ }
+ .div10ten{
+  border:1px solid rgb(190, 190, 239); width: 1px; height: 400px; margin-top: 40px; margin-left: 60px;
+ }
+ .div11{
+  background-color: rgb(176, 176, 242); border-radius: 40px; padding: 100px 20px;
+ }
+ .div11h3{
+  font-family: 'Times New Roman', Times, serif; color: blue;
+  text-align: center;
+  font-size: 60px;
+ }
+ .div11h2{
+  border-radius: 20px; background-color: darkblue; color: white;
+ }
+ .div11h{
+  border-radius: 20px; color:darkblue
+ }
+ .div11h1{
+  font-size: 60px;
+
+ }
+ .div12{
+   background-color: rgb(226, 226, 244); border-radius: 30px; 
+ }
+ .div12p{
+ font-size: 13px;
+ }
+ .div12h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+ }
+ .div13{
+  background-color: rgb(226, 226, 239); border-radius: 30px;
+ }
+ .div13h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;padding-top: 30px; margin-left: 30px; color: blue;
+ }
+ .div13h2{
+  font-size: 10px;
+ }
+ .div14{
+  background-color: rgb(235, 235, 246); border-radius: 30px;
+ }
+ .div14h1{
+  color: blue; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+ }
+ .div14h3{
+  background-color: darkblue; color: white
+ }
+ .div14m{
+  border: 1px solid rgb(187, 187, 238); margin-left: 10px; border-radius: 30px;
+ }
+ .div16{
+  background-color: rgb(211, 211, 240); border-radius: 30px;
+ }
+ .div16h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: blue;
+  text-align: center;
+ }
+ .div18{
+  background-color: blue;border-radius: 30px;
+ }
+ .div19{
+  background-color: rgb(221, 221, 239);border-radius: 30px;
+ }
+ .div19h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: blue;
+ }
+ .div19s{
+  font-size: 10px;
+ }
+ .spynv:hover{
+  background-color: brown;
+ }
+ .modal-content {
+  max-height: 900vh; /* Adjust this value to control the height */
+  overflow-y: auto; /* Enables vertical scrolling */
+}
+
+.modal-body img {
+  height: 500px; /* Reduce image height to fit inside modal */
+  width: 100%; /* Keep the width responsive */
+  object-fit: cover; /* Ensures the image fits properly */
+}
+
+
+ 

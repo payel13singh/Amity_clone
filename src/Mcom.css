@@ -1,0 +1,12 @@
+.career{
+    border: 2px solid blue;
+    border-radius: 30px;
+}
+.impact{
+    background-color: rgb(210, 210, 244);
+    border-radius: 30px;
+}
+.impacth1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

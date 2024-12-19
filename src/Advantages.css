@@ -1,0 +1,137 @@
+.maindiv{
+   background-color: rgb(179, 179, 230);
+   margin-top: 200px;
+   border-radius: 20px;
+}
+.divp{
+  border: 1 px solid black;  
+  height: 100px;
+  width: 1px;
+}
+.fourthdiv{
+   background-color: rgb(191, 191, 236); 
+}
+.fourthdiv1{
+    border:1px solid rgb(244, 238, 238) ;
+}
+.fourthdiv2{
+    font-size: 27px;
+}
+.fourthdiv3{
+    border: 1px solid rgb(223, 219, 219);
+}
+.fourthdiv4{
+    font-size: 70px;
+    color: darkgreen;
+}
+.fifthdiv{
+    background-color: rgb(220, 220, 246);
+}
+.fifthdiv1{
+    margin-left: 200px;
+}
+.fifthdiv2{
+   width: 400px; 
+   height: 465px;
+   background-color: aqua;
+}
+.fifthdiv3{
+  width: 400px; 
+  background-color: aqua; 
+}
+.fifthdiv4{
+    width: 400px; 
+    height: 475px;
+    background-color: aqua;
+}
+.fifthdiv5{
+    width: 400px; 
+    height: 480px;
+    background-color: aqua;
+}
+.divimg{
+    /* width: 100px; */
+    height: 300px;
+}
+.fifthdiv22{
+    width: 400px; 
+    height: 450px;
+    background-color: aqua;
+    margin-bottom: 3px;
+}
+.sixdiv{
+    background-color: rgb(42, 81, 42);
+}
+.sevendiv{
+    background-color: rgb(65, 130, 65);
+}
+.campus{
+    font-family: cursive;
+    font-size: 50px;
+    padding-top: 20px;
+}
+.a1img{
+    height:300px ;
+    width:600px ;
+}
+.a2img{
+    height:300px ;
+    width:540px ;
+}
+.a3img{
+    height:300px ;
+    width:350px ;
+}
+.a4img{
+    height:300px ;
+    width:330px ;
+}
+.eightdiv{
+  border-color: green;  
+}
+.crousal{
+    height:100px ;
+    width:200px ;
+    /* background-color: darkgreen; */
+}
+.chead{
+    font-size: 50px;
+    font-family: cursive;
+    color: blue;
+}
+.show12{
+    width: 120px;
+    height: 120px;
+}
+.slide{
+    background-color: rgb(35, 79, 35);
+}
+.para1{
+    color: white;
+    font-size: small;
+}
+.wimage{
+    height: 60px;
+    width: 60px;
+}
+.wchoose{
+    background-color:rgb(163, 163, 241)
+    
+}
+.head4{
+    font-family: cursive;
+    color:blue;
+    /* font-style: oblique; */
+    margin-top: 30px;
+}
+.mainhead{
+    font-size: 50px;
+    font-family: cursive;
+    color: blue
+}
+.building{
+    margin-top: 100px;
+}
+
+
+

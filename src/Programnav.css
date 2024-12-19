@@ -1,0 +1,94 @@
+.ug{
+    background-color: rgb(188, 228, 188);
+     margin-left: 25px;
+     margin-top: 20px;
+}
+.ug1{
+    background-color: rgb(188, 228, 188);
+     margin-left: 25px;
+     margin-top: 20px;
+     color: yellow;
+     
+     text-shadow:  0 0 3px #FF0000;
+     text-align: center;
+     box-shadow: 10px 10px 5px 12px rgb(232, 34, 67);
+    
+}
+marquee{
+    color: darkgreen;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(248, 74, 109);
+}
+.head6{
+    text-align: center;
+    color: blue;
+    /* text-shadow:0ch ; */
+    text-shadow:  0 0 3px #FF0000;
+    font-family:cursive;
+}
+.para3{
+    font-size: 40px;
+}
+.vertical{
+    position: fixed;
+    top:185px;
+    /* margin-top: 200px; */
+    
+}
+.year3{
+    margin-top: 50px;
+}
+
+
+/* cht gpt */
+
+
+
+/* General styling */
+.container {
+    padding: 0 15px; /* Adjust container padding */
+  }
+  
+  /* Ensure images are responsive */
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Center text and align items */
+  .text-center {
+    text-align: center;
+  }
+  
+  /* Styling for headings and other elements */
+  .head6 {
+    font-size: 1.25rem; /* Adjust font size as needed */
+    margin: 0;
+  }
+  
+  .para3 {
+    font-size: 1rem; /* Adjust font size as needed */
+    margin: 0;
+  }
+  
+  /* Add padding and border for better visibility */
+  .ug1 {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    background-color: #f9f9f9;
+  }
+  
+  /* Add margin-bottom to ensure spacing */
+  .mb-3 {
+    margin-bottom: 1.5rem; /* Adjust spacing as needed */
+  }
+  
+  /* Responsive design tweaks */
+  @media (max-width: 767.98px) {
+    .head6 {
+      font-size: 1rem; /* Adjust font size for small screens */
+    }
+  }
+  
